@@ -25,6 +25,6 @@ I enjoy solving real-world problems, learning new technologies, and building thi
 
 💌 Email: guntakachakravaishnavreddy@gmail.com
 
-🔗 LinkedIn: Click here
+🔗 LinkedIn: Connect [here](https://www.linkedin.com/in/chakra-vaishnav-reddy-guntaka)
 
-🐙 GitHub: Check my repositories
+🐙 GitHub: Check my repositories [here](https://github.com/ChakraVaishnav?tab=repositories)
