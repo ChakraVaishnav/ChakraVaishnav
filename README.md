@@ -16,7 +16,7 @@ Improving backend architecture & scalability
 
 ## 📺 Favorite Anime  
 <p align="center">
-  <img width="250" src="https://github.com/ChakraVaishnav/ChakraVaishnav/blob/main/bluebox.jpg" alt="Blue Box" />
+  <img width="160" src="https://github.com/ChakraVaishnav/ChakraVaishnav/blob/main/bluebox.jpg" alt="Blue Box" />
 </p>
 
 
