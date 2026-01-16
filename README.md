@@ -26,4 +26,4 @@ Email: guntakachakravaishnavreddy@gmail.com
 
 LinkedIn: Connect [here](https://www.linkedin.com/in/chakra-vaishnav-reddy)
 
-GitHub: Check my repositories [here](https://github.com/ChakraVaishnav?tab=repositories)
+Portfolio: Check my portfolio [here](https://giyu.me)
