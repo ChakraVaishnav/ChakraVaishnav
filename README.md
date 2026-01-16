@@ -21,6 +21,9 @@ Improving backend architecture & scalability
 
 
 Let's Connect:
-               guntakachakravaishnavreddy@gmail.com
-               [LinkedIn](https://www.linkedin.com/in/chakra-vaishnav-reddy)
-               [Portfolio](https://giyu.me)
+  
+  guntakachakravaishnavreddy@gmail.com
+              
+  [LinkedIn](https://www.linkedin.com/in/chakra-vaishnav-reddy)
+               
+  [Portfolio](https://giyu.me)
